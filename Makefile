@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := all
 
-output.html: index.md
+index.html: index.md
 	npx @marp-team/marp-cli index.md  -o output.html
 
-all: output.html
+all: index.html

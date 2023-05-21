@@ -300,7 +300,7 @@ TROISIÈME PARTIE
 
 ## 2/ Approval testing 🪞
 
-![bg right](../assets/approval-tests-cropped.jpg)
+![bg right](assets/approval-tests-cropped.jpg)
 
 Objectif: effets restent inchangés après chaque modification code.
 
@@ -322,7 +322,7 @@ Objectif: effets restent inchangés après chaque modification code.
 
 ## 4/ Mikado 🧭 / Yak Shaving
 
-![bg right](../assets/mikado-method-step3-nicolas-carlo.jpg)
+![bg right](assets/mikado-method-step3-nicolas-carlo.jpg)
 
 Principe: trouver le plus petit incrément d'amélioration, méthodiquement.
 
@@ -344,7 +344,7 @@ Principe: trouver le plus petit incrément d'amélioration, méthodiquement.
 
 ## 6/ Strangler fig pattern 🌴
 
-![](../assets/strangler-microsoft.png)
+![](assets/strangler-microsoft.png)
 
 <!-- **Strangler fig pattern / Ship of Theseus**: changement progressif d’architecture, en routant (via une façade, ex: proxy HTTP) les requêtes entrantes vers le legacy ou le nouveau code, selon le cas: [Strangler Fig pattern - Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig) -->
     
@@ -365,7 +365,7 @@ img {
 }
 </style>
 
-![](../assets/books.jpg)
+![](assets/books.jpg)
 
 ---
 
